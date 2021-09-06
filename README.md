@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lorpe
+- 👀 I’m interested in Netapp, Linux and Windows Servers maintenance, Bash, Python, Powershell
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects to discover and lean how to use Kubernetes
+- 📫 How to reach me : solilock@vivaldi.net / 
